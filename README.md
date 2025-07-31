@@ -7,7 +7,7 @@ A simple and stylish calculator built using **HTML**, **CSS**, and **Vanilla Jav
 ## 📸 Screenshot
 
 <!-- If your screenshot is saved inside the project, like `assets/calculator.png` -->
-![Calculator Preview](./assets/ReadmeScreenshot.png)
+![Calculator Preview](./assets/calculatorScreenshot.png)
 
 ---
 
